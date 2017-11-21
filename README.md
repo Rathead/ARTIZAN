@@ -9,6 +9,7 @@ Instructions:
 - Clone
 - Open a terminal in the folder and:
   > npm install
+- If you have webpack pre-installed
   > webpack
 - Run using
   > npm run start
